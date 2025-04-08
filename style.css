@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+iframe {
+    height: 100px;
+    width: 100px;   
+}
+
+.scndiframe {
+    height: 150px;
+    width: 310px;
+}
+
+.longiframe {
+    height: 100px;
+    width: 520px;
+}
